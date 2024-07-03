@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\buselitok\\source\\repos\\HackerRank\\HackerRankProblem\\GradingStudents\\GradingStudents.csproj": {}
+    "C:\\Users\\buselitok\\source\\repos\\HackerRank\\HackerRankProblem\\Staircase\\Staircase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\buselitok\\source\\repos\\HackerRank\\HackerRankProblem\\GradingStudents\\GradingStudents.csproj": {
+    "C:\\Users\\buselitok\\source\\repos\\HackerRank\\HackerRankProblem\\Staircase\\Staircase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\buselitok\\source\\repos\\HackerRank\\HackerRankProblem\\GradingStudents\\GradingStudents.csproj",
-        "projectName": "GradingStudents",
-        "projectPath": "C:\\Users\\buselitok\\source\\repos\\HackerRank\\HackerRankProblem\\GradingStudents\\GradingStudents.csproj",
+        "projectUniqueName": "C:\\Users\\buselitok\\source\\repos\\HackerRank\\HackerRankProblem\\Staircase\\Staircase.csproj",
+        "projectName": "Staircase",
+        "projectPath": "C:\\Users\\buselitok\\source\\repos\\HackerRank\\HackerRankProblem\\Staircase\\Staircase.csproj",
         "packagesPath": "C:\\Users\\buselitok\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\buselitok\\source\\repos\\HackerRank\\HackerRankProblem\\GradingStudents\\obj\\",
+        "outputPath": "C:\\Users\\buselitok\\source\\repos\\HackerRank\\HackerRankProblem\\Staircase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -71,5 +71,8 @@ class Solution
 
         List<int> result = Result.gradingStudents(grades);
 
+        Console.WriteLine(result);
+
     }
+
 }

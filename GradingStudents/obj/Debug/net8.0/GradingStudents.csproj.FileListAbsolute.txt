@@ -1,0 +1,15 @@
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\GradingStudents\bin\Debug\net8.0\GradingStudents.exe
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\GradingStudents\bin\Debug\net8.0\GradingStudents.deps.json
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\GradingStudents\bin\Debug\net8.0\GradingStudents.runtimeconfig.json
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\GradingStudents\bin\Debug\net8.0\GradingStudents.dll
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\GradingStudents\bin\Debug\net8.0\GradingStudents.pdb
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\GradingStudents\obj\Debug\net8.0\GradingStudents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\GradingStudents\obj\Debug\net8.0\GradingStudents.AssemblyInfoInputs.cache
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\GradingStudents\obj\Debug\net8.0\GradingStudents.AssemblyInfo.cs
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\GradingStudents\obj\Debug\net8.0\GradingStudents.csproj.CoreCompileInputs.cache
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\GradingStudents\obj\Debug\net8.0\GradingStudents.sourcelink.json
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\GradingStudents\obj\Debug\net8.0\GradingStudents.dll
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\GradingStudents\obj\Debug\net8.0\refint\GradingStudents.dll
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\GradingStudents\obj\Debug\net8.0\GradingStudents.pdb
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\GradingStudents\obj\Debug\net8.0\GradingStudents.genruntimeconfig.cache
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\GradingStudents\obj\Debug\net8.0\ref\GradingStudents.dll
