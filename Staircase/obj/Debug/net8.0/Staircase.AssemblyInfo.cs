@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Staircase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fefe21558d6f684e030d5a99faf3e6616e8f16e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f00eb275de2861a73144397e79384b43e14f0b82")]
 [assembly: System.Reflection.AssemblyProductAttribute("Staircase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Staircase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

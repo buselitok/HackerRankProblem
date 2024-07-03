@@ -1,0 +1,15 @@
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\CompareTheTriplet\bin\Debug\net8.0\CompareTheTriplet.exe
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\CompareTheTriplet\bin\Debug\net8.0\CompareTheTriplet.deps.json
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\CompareTheTriplet\bin\Debug\net8.0\CompareTheTriplet.runtimeconfig.json
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\CompareTheTriplet\bin\Debug\net8.0\CompareTheTriplet.dll
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\CompareTheTriplet\bin\Debug\net8.0\CompareTheTriplet.pdb
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\CompareTheTriplet\obj\Debug\net8.0\CompareTheTriplet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\CompareTheTriplet\obj\Debug\net8.0\CompareTheTriplet.AssemblyInfoInputs.cache
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\CompareTheTriplet\obj\Debug\net8.0\CompareTheTriplet.AssemblyInfo.cs
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\CompareTheTriplet\obj\Debug\net8.0\CompareTheTriplet.csproj.CoreCompileInputs.cache
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\CompareTheTriplet\obj\Debug\net8.0\CompareTheTriplet.sourcelink.json
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\CompareTheTriplet\obj\Debug\net8.0\CompareTheTriplet.dll
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\CompareTheTriplet\obj\Debug\net8.0\refint\CompareTheTriplet.dll
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\CompareTheTriplet\obj\Debug\net8.0\CompareTheTriplet.pdb
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\CompareTheTriplet\obj\Debug\net8.0\CompareTheTriplet.genruntimeconfig.cache
+C:\Users\buselitok\source\repos\HackerRank\HackerRankProblem\CompareTheTriplet\obj\Debug\net8.0\ref\CompareTheTriplet.dll

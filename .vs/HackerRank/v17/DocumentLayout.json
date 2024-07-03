@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\buselitok\\source\\repos\\HackerRank\\HackerRankProblem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{58AE6FAC-5744-41B0-8051-BDC49D67324F}|CompareTheTriplet\\CompareTheTriplet.csproj|c:\\users\\buselitok\\source\\repos\\hackerrank\\hackerrankproblem\\comparethetriplet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AE6FAC-5744-41B0-8051-BDC49D67324F}|CompareTheTriplet\\CompareTheTriplet.csproj|solutionrelative:comparethetriplet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{97BAB115-3C49-43A6-97C2-5830E29D2010}|Staircase\\Staircase.csproj|c:\\users\\buselitok\\source\\repos\\hackerrank\\hackerrankproblem\\staircase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97BAB115-3C49-43A6-97C2-5830E29D2010}|Staircase\\Staircase.csproj|solutionrelative:staircase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -28,6 +32,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\buselitok\\source\\repos\\HackerRank\\HackerRankProblem\\CompareTheTriplet\\Program.cs",
+              "RelativeDocumentMoniker": "CompareTheTriplet\\Program.cs",
+              "ToolTip": "C:\\Users\\buselitok\\source\\repos\\HackerRank\\HackerRankProblem\\CompareTheTriplet\\Program.cs",
+              "RelativeToolTip": "CompareTheTriplet\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:34:49.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\buselitok\\source\\repos\\HackerRank\\HackerRankProblem\\Staircase\\Program.cs",
               "RelativeDocumentMoniker": "Staircase\\Program.cs",
               "ToolTip": "C:\\Users\\buselitok\\source\\repos\\HackerRank\\HackerRankProblem\\Staircase\\Program.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\buselitok\\source\\repos\\HackerRank\\HackerRankProblem\\GradingStudents\\Program.cs",
               "RelativeDocumentMoniker": "GradingStudents\\Program.cs",
